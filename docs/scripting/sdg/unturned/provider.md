@@ -1,3 +1,13 @@
 # SDG.Unturned.Provider
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pharetra turpis sit amet eros auctor, sit amet egestas ipsum rutrum. In quis sollicitudin lorem, a rutrum nisl. Nunc justo risus, vulputate in faucibus in, lacinia id mi. Nunc sit amet tortor ullamcorper, tempor diam efficitur, commodo elit. Morbi consequat in metus ut porttitor. Quisque non bibendum odio. Donec nulla leo, aliquet quis dolor nec, feugiat fermentum sem. Aliquam interdum tortor feugiat magna tempus porta. Praesent laoreet vulputate nulla quis tempor. Nullam tristique sed nisl non dictum. Etiam ex elit, malesuada id ultrices nec, dignissim sed ipsum. Duis non ullamcorper nisi, id vehicula libero. Sed ligula nunc, fermentum at fringilla in, dictum sit amet massa. Etiam sem nibh, tristique ac mollis id, molestie id urna. Donec venenatis faucibus quam, in feugiat leo finibus ac. Maecenas ut quam ut magna gravida accumsan id quis mauris.
+Serves as a central hub for most client/server functions.
+
+```C#
+public class Provider : MonoBehaviour
+```
+
+### Functions:
+
+Name | Description
+------------ | -------------
+[kick(CSteamID, string)](scripting/sdg/unturned/provider/kick) | Kicks a player from the game.
