@@ -10,6 +10,12 @@
   
 * Scripting Reference
 
+  * SDG.Framework.Modules
+  
+    * [EModuleRole](scripting/sdg/framework/modules/emodulerole)
+	* [EModuleStatus](scripting/sdg/framework/modules/emodulestatus)
+    * [IModuleNexus](scripting/sdg/framework/modules/imodulenexus)
+
   * SDG.Unturned
 
 	* [Provider](scripting/sdg/unturned/provider)
