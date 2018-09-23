@@ -12,4 +12,4 @@ public static List<SteamPlayer> clients { get; }
 
 Type | Description
 ------------ | -------------
-[List](https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netframework-3.5) of [SteamPlayer]() | The list of all connected players
+[List](https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netframework-3.5) of [SteamPlayer](scripting/sdg/unturned/steamplayer) | The list of all connected players

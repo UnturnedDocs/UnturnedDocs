@@ -17,8 +17,10 @@
     * [IModuleNexus](scripting/sdg/framework/modules/imodulenexus)
 
   * SDG.Unturned
-
+	
+	* [Player](scripting/sdg/unturned/player)
 	* [Provider](scripting/sdg/unturned/provider)
+	* [SteamPlayer](scripting/sdg/unturned/steamplayer)
 	* [SteamPlayerID](scripting/sdg/unturned/steamplayerid)
 	
   * Steamworks
