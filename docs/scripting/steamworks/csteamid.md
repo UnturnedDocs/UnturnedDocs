@@ -1,5 +1,7 @@
 # Steamworks.CSteamID
 
+> This page is incomplete, please help finish it by contributing.
+
 The interop structure for the native representation of a Steam64ID;
 
 ```C#
