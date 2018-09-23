@@ -21,8 +21,9 @@ using Steamworks;
 
 public sealed class CommandKickAll : Command
 {
-	public CommandKickAll()
+	public CommandKickAll(Local local)
 	{
+		localization = local;
 		_command = "kickall";
 		_info = "KickAll [reason]";
 		_help = "Kicks all players except the caller from the server.";
