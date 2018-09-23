@@ -10,4 +10,4 @@ public class Provider : MonoBehaviour
 
 Name | Description
 ------------ | -------------
-[kick(CSteamID, string)](scripting/sdg/unturned/provider/kick) | Kicks a player from the game.
+[kick(CSteamID, string)](scripting/sdg/unturned/provider/kick) | Kicks a player from the game

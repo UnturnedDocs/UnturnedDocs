@@ -10,8 +10,8 @@ public static void kick (CSteamID steamID, string reason);
 
 Type | Name | Description
 ------------ | ------------- | -------------
-[CSteamID](scripting/steamworks/csteamid) | steamID | The id of the user to kick.
-[string](https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netframework-3.5) | reason | The reason displayed to the user after they have been kicked.
+[CSteamID](scripting/steamworks/csteamid) | steamID | The id of the user to kick
+[string](https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netframework-3.5) | reason | The reason displayed to the user after they have been kicked
 
 ### Example:
 

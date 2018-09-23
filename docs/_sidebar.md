@@ -13,6 +13,7 @@
   * SDG.Unturned
 
 	* [Provider](scripting/sdg/unturned/provider)
+	* [SteamPlayerID](scripting/sdg/unturned/steamplayerid)
 	
   * Steamworks
   
