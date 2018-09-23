@@ -20,11 +20,12 @@ using Steamworks;
 
 public sealed class CommandListCharacterNames : Command
 {
-    public CommandListCharacterNames()
+    public CommandListCharacterNames(Local local)
     {
+		localization = local;
         _command = "listcharacternames";
         _info = "listcharacternames";
-        _help = "Lists the players' character name followed by their Steam name.";
+        _help = "Lists the players' steamID followed by their character name.";
     }
 
     protected override void execute(CSteamID caller, string parameters)
@@ -39,7 +40,7 @@ public sealed class CommandListCharacterNames : Command
         }
 
         foreach (SteamPlayer player in Provider.clients)
-            CommandWindow.Log($"{player.playerID.characterName} : {player.playerID.steamID.playerName}");
+            CommandWindow.Log($"{player.playerID.steamID.m_SteamID} : {player.playerID.characterName}");
     }
 }
 ```
