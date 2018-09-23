@@ -20,8 +20,9 @@
       name: 'Unturned Docs',
       repo: 'https://github.com/ChubbyQuokka/UnturnedDocs',
 	  loadSidebar: true,
+	  executeScript: true,
 	  search: {
-	  maxAge: 86400000,
+		maxAge: 86400000,
         noData: {
           '/': 'No results!'
         },
@@ -30,10 +31,22 @@
           '/': 'Type to Search'
         },
 		depth: 2
-      }
+      },
+	  plugins: [
+		function (hook, vm) {
+          hook.beforeEach(function (html) {
+            url = 'https://github.com/ChubbyQuokka/UnturnedDocs/edit/master/docs/' + vm.route.file
+            var editHtml = '<div style="overflow: auto"><p style="float: right">[:memo: Edit on GitHub](' + url + ')</p></div>\n'
+
+            return editHtml
+              + html
+          })
+		}
+	  ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
 </body>
 </html>
