@@ -7,4 +7,3 @@ The function called when the module is shutdown.
 ```csharp
 void shutdown ();
 ```
-

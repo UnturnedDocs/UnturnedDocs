@@ -7,4 +7,3 @@ The function called when the module is initialized.
 ```csharp
 void initialize ();
 ```
-
