@@ -5,6 +5,6 @@
 > Unofficial Code Documentation for Unturned!
 
 [GitHub](https://github.com/ChubbyQuokka/UnturnedDocs)
-[Getting Started](information/using_this_documentation)
+[Contributing](information/contributing.md)
 
 ![color](#3c3c3c)
