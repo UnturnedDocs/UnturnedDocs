@@ -7,3 +7,9 @@ The integration of all game features into the player.
 ```
 public class Player : MonoBehaviour
 ```
+
+### Properties:
+
+Name | Description
+------------ | -------------
+[life](scripting/sdg/unturned/player/life) | Gets the life object attached to this player

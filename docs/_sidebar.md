@@ -18,7 +18,11 @@
 
   * SDG.Unturned
 	
+	* [EDeathCause](scripting/sdg/unturned/edeathcause)
+	* [ELimb](scripting/sdg/unturned/elimb)
+	* [ETempurature](scripting/sdg/unturned/etempurature)
 	* [Player](scripting/sdg/unturned/player)
+	* [PlayerLife](scripting/sdg/unturned/playerlife)
 	* [Provider](scripting/sdg/unturned/provider)
 	* [SteamPlayer](scripting/sdg/unturned/steamplayer)
 	* [SteamPlayerID](scripting/sdg/unturned/steamplayerid)

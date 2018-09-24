@@ -2,7 +2,7 @@
 
 > This page is incomplete, please help finish it by contributing.
 
-The ID attached to a Steam player.
+The ID attached to this.
 
 ```c#
 public SteamPlayerID playerID { get; }

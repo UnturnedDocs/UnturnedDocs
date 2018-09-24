@@ -14,8 +14,8 @@ Name | Description
 ------------ | -------------
 [isAdmin](scripting/sdg/unturned/steamplayer/isadmin) | Checks if the player is an admin
 [isPro](scripting/sdg/unturned/steamplayer/ispro) | Checks if the player owns the Gold DLC
-[joined](scripting/sdg/unturned/steamplayer/joined) | The timestamp when the player joined
-[language](scripting/sdg/unturned/steamplayer/language) | The language the player has set
-[ping](scripting/sdg/unturned/steamplayer/ping) | The current ping of the player
-[player](scripting/sdg/unturned/steamplayer/player) | The player object this class is attached to
-[playerID](scripting/sdg/unturned/steamplayer/playerid) | The class containing data used to identify the player
+[joined](scripting/sdg/unturned/steamplayer/joined) | Gets the timestamp when the player joined
+[language](scripting/sdg/unturned/steamplayer/language) | Gets the language the player has set
+[ping](scripting/sdg/unturned/steamplayer/ping) | Gets the current ping of the player
+[player](scripting/sdg/unturned/steamplayer/player) | Gets the player object this class is attached to
+[playerID](scripting/sdg/unturned/steamplayer/playerid) | Gets the class containing data used to identify the player

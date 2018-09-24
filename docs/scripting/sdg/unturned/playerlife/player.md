@@ -1,8 +1,8 @@
-# SDG.Unturned.SteamPlayer.player
+# SDG.Unturned.PlayerLife.player
 
 > This page is incomplete, please help finish it by contributing.
 
-The player object attached to this.
+Gets the current player object this is attached to.
 
 ```C#
 public Player player { get; }
@@ -12,4 +12,4 @@ public Player player { get; }
 
 Type | Description
 ------------ | -------------
-[Player](scripting/sdg/unturned/player) | The player object
+[Player](scripting/sdg/unturned/player) | The player object this is attached to
