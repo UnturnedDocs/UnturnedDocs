@@ -4,7 +4,7 @@
 > Please note that this is documenting closed-source code that has been decompiled.
 > Various parts may be wrong or misunderstood by the person documenting them.
 
-> Every class, struct, interface, enum, delegate, method, property, and field will each have it's own page!
+> Every class, struct, interface, enum, delegate, method, property, and field will each have its own page!
 
 ### Namespaces and Classes:
 
