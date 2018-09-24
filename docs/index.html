@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>UnturnedDocs</title>
@@ -8,21 +9,23 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/themes/dark.css">
   <style>
-  .markdown-section tr:nth-child(2n) {
-    background-color: #3f3f3f;
-  }
+    .markdown-section tr:nth-child(2n) {
+      background-color: #3f3f3f;
+    }
   </style>
 </head>
+
 <body>
   <div id="app">Loading...</div>
   <script>
     window.$docsify = {
       name: 'Unturned Docs',
       repo: 'https://github.com/ChubbyQuokka/UnturnedDocs',
-	  loadSidebar: true,
-	  executeScript: true,
-	  search: {
-		maxAge: 86400000,
+      loadSidebar: true,
+      coverpage: true,
+      executeScript: true,
+      search: {
+        maxAge: 86400000,
         noData: {
           '/': 'No results!'
         },
@@ -30,10 +33,10 @@
         placeholder: {
           '/': 'Type to Search'
         },
-		depth: 2
+        depth: 2
       },
-	  plugins: [
-		function (hook, vm) {
+      plugins: [
+        function (hook, vm) {
           hook.beforeEach(function (html) {
             url = 'https://github.com/ChubbyQuokka/UnturnedDocs/edit/master/docs/' + vm.route.file
             var editHtml = '<div style="overflow: auto"><p style="float: right">[:memo: Edit on GitHub](' + url + ')</p></div>\n'
@@ -41,12 +44,13 @@
             return editHtml
               + html
           })
-		}
-	  ]
+        }
+      ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
 </body>
+
 </html>
