@@ -94,6 +94,8 @@ Now edit `<file>.module` and add the following text:
 }
 ```
 
+Example:
+
 ![img10](../_media/module/img10.png)
 
 For more information about the `Role` section, see [EModuleRole](scripting/sdg/framework/modules/emodulerole)
