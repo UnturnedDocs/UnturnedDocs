@@ -16,7 +16,7 @@
     * [IModuleNexus](scripting/sdg/framework/modules/imodulenexus)
 
   * SDG.Unturned
-	
+
     * [EDeathCause](scripting/sdg/unturned/edeathcause)
     * [ELimb](scripting/sdg/unturned/elimb)
     * [EPlayerKill](scripting/sdg/unturned/eplayerkill)
@@ -26,7 +26,7 @@
     * [Provider](scripting/sdg/unturned/provider)
     * [SteamPlayer](scripting/sdg/unturned/steamplayer)
     * [SteamPlayerID](scripting/sdg/unturned/steamplayerid)
-	
+
   * Steamworks
   
     * [CSteamID](scripting/steamworks/csteamid)
