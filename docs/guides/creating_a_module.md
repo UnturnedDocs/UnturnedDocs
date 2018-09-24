@@ -1,5 +1,9 @@
 # Creating a Module
 
+> This tutorial references the following resources:
+> * [SDG.Framework.Modules.IModuleNexus](scripting/sdg/framework/modules/imodulenexus)
+> * [SDG.Framework.Modules.EModuleRole](scripting/sdg/framework/modules/emodulerole)
+
 ## 1. Installing Tools
 
 You will need the following tools to get started:
