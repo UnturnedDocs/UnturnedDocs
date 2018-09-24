@@ -4,7 +4,7 @@
 
 Gets the language the player currently has set.
 
-```c#
+```C#
 public string language { get; }
 ```
 

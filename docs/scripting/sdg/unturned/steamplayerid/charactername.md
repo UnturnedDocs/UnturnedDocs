@@ -2,7 +2,7 @@
 
 The public name of the player's character that they connected to the server with.
 
-```c#
+```C#
 public string characterName { get; set; }
 ```
 
@@ -14,7 +14,7 @@ Type | Description
 
 ### Example:
 
-```c#
+```C#
 using SDG.Unturned;
 using Steamworks;
 

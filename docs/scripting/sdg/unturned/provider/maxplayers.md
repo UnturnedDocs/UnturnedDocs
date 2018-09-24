@@ -4,7 +4,7 @@
 
 Gets or sets the maximum amount of players able to join the server at one time.
 
-```c#
+```C#
 public static byte maxPlayers { get; set; }
 ```
 

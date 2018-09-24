@@ -2,7 +2,7 @@
 
 The ID of the Steam account bound to this player.
 
-```c#
+```C#
 public string steamID { get; }
 ```
 
@@ -14,7 +14,7 @@ Type | Description
 
 ### Example:
 
-```c#
+```C#
 using SDG.Unturned;
 using Steamworks;
 

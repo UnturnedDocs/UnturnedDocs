@@ -4,7 +4,7 @@
 
 The integration of all game features into the player.
 
-```
+```C#
 public class Player : MonoBehaviour
 ```
 

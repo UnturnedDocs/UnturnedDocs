@@ -4,7 +4,7 @@
 
 Gets or sets the name displayed by the server in the browser.
 
-```c#
+```C#
 public static string serverName { get; set; }
 ```
 

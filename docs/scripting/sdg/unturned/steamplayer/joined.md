@@ -4,7 +4,7 @@
 
 Gets the timestamp when the player joined.
 
-```c#
+```C#
 public float joined { get; }
 ```
 

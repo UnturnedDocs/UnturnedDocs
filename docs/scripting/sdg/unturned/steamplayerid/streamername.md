@@ -2,7 +2,7 @@
 
 The name shown to clients when they are in streamer mode. The algorithm to calculate this is based on the player's [CSteamID](scripting/streamworks/csteamid).
 
-```c#
+```C#
 public string streamerName { get; }
 ```
 
@@ -16,14 +16,14 @@ Type | Description
 
 This is calculated using the following algorithm:
 
-```c#
+```C#
 public string streamerName => 
 	Provider.streamerNames[this.steamID.m_SteamID % Provider.streamerNames.Count];
 ```
 
 ### Example:
 
-```c#
+```C#
 using SDG.Unturned;
 using Steamworks;
 

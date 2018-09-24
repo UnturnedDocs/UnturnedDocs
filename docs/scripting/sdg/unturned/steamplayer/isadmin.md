@@ -4,7 +4,7 @@
 
 Gets or sets the players status as an admin.
 
-```c#
+```C#
 public bool isAdmin { get; set; }
 ```
 

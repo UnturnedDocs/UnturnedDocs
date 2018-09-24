@@ -4,7 +4,7 @@
 
 The ID attached to this.
 
-```c#
+```C#
 public SteamPlayerID playerID { get; }
 ```
 
