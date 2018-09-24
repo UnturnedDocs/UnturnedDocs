@@ -4,7 +4,7 @@
 
 Gets the current player object this is attached to.
 
-```C#
+```csharp
 public Player player { get; }
 ```
 

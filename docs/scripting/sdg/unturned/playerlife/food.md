@@ -4,7 +4,7 @@
 
 Gets the current food stat of the player.
 
-```C#
+```csharp
 public byte food { get; }
 ```
 

@@ -4,7 +4,7 @@
 
 The enum representing the role of a module.
 
-```C#
+```csharp
 public enum EModuleRole
 ```
 

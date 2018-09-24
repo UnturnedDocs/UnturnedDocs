@@ -4,7 +4,7 @@
 
 The function called when the module is shutdown.
 
-```C#
+```csharp
 void shutdown ();
 ```
 

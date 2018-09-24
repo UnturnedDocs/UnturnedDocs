@@ -4,7 +4,7 @@
 
 The current version of the game the client or server is running.
 
-```C#
+```csharp
 public static string APP_VERSION { get; }
 ```
 

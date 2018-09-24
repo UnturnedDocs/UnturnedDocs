@@ -2,7 +2,7 @@
 
 Bans a player from the game for a specified amout of time.
 
-```C#
+```csharp
 public static void ban (CSteamID steamID, string reason, uint duration);
 ```
 
@@ -16,7 +16,7 @@ Type | Name | Description
 
 ### Example:
 
-```C#
+```csharp
 using SDG.Framework.Modules;
 using SDG.Unturned;
 using Steamworks;

@@ -2,7 +2,7 @@
 
 The limb of a player, animal, or zombie.
 
-```C#
+```csharp
 public enum ELimb
 ```
 

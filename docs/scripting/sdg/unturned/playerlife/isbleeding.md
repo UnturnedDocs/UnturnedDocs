@@ -4,7 +4,7 @@
 
 Gets whether the player is bleeding or not.
 
-```C#
+```csharp
 public bool isBleeding { get; }
 ```
 

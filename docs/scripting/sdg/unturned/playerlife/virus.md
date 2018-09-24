@@ -4,7 +4,7 @@
 
 Gets the current virus stat of the player.
 
-```C#
+```csharp
 public byte virus { get; }
 ```
 

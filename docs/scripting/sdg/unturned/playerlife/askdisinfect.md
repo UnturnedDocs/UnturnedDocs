@@ -8,7 +8,7 @@ This disinfects the player as the infection stat goes opposite the other major s
 
 If you want to decrease the infection stat, use [askInfect(byte)](scripting/sdg/unturned/playerlife/askinfect).
 
-```C#
+```csharp
 public void askDisinfect(byte amount);
 ```
 

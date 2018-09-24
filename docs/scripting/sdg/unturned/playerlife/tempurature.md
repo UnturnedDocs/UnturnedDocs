@@ -4,7 +4,7 @@
 
 Gets the tempurature stat the player is experiencing
 
-```C#
+```csharp
 public ETempurature tempurature { get; }
 ```
 

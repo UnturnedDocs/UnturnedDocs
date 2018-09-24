@@ -4,7 +4,7 @@
 
 Gets whether the player owns the Gold DLC or not.
 
-```C#
+```csharp
 public bool isPro { get; }
 ```
 

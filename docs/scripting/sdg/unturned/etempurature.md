@@ -4,7 +4,7 @@
 
 The tempurature the player is currently feeling.
 
-```C#
+```csharp
 public enum ETempurature
 ```
 

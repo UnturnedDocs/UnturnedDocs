@@ -2,7 +2,7 @@
 
 The interface that all modules inherit from.
 
-```C#
+```csharp
 public interface IModuleNexus
 ```
 

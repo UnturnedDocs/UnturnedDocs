@@ -2,7 +2,7 @@
 
 The name of the Steam account bound to this player.
 
-```C#
+```csharp
 public string playerName { get; }
 ```
 
@@ -14,7 +14,7 @@ Type | Description
 
 ### Example:
 
-```C#
+```csharp
 using SDG.Unturned;
 using Steamworks;
 

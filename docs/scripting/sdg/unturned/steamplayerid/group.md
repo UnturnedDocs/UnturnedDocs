@@ -2,7 +2,7 @@
 
 The group the player is currently in.
 
-```C#
+```csharp
 public CSteamID group;
 ```
 
@@ -14,7 +14,7 @@ Type | Description
 
 ### Example:
 
-```C#
+```csharp
 using SDG.Unturned;
 using Steamworks;
 

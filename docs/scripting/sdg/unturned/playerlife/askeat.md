@@ -6,7 +6,7 @@ Adds some of the food stat from the player.
 
 If you want to decrease the food stat, use [askStarve(byte)](scripting/sdg/unturned/playerlife/askstarve).
 
-```C#
+```csharp
 public void askEat(byte amount);
 ```
 

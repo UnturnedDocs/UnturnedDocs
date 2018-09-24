@@ -4,7 +4,7 @@
 
 Gets or sets the password used when joining a server.
 
-```C#
+```csharp
 public static string serverPassword { get; set; }
 ```
 

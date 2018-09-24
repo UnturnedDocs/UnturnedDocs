@@ -4,7 +4,7 @@
 
 The reason for the death of a player, animal, or zombie.
 
-```C#
+```csharp
 public enum EDeathCause
 ```
 

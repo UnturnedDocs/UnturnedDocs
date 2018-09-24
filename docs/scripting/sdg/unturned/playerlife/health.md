@@ -4,7 +4,7 @@
 
 Gets the current health stat of the player.
 
-```C#
+```csharp
 public byte health { get; }
 ```
 

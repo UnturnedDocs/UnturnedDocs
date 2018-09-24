@@ -4,7 +4,7 @@
 
 Gets the current ping of the player.
 
-```C#
+```csharp
 public float ping { get; }
 ```
 

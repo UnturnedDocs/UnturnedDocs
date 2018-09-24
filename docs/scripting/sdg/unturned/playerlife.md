@@ -4,7 +4,7 @@
 
 The class holding fields relating to the life and health of a player.
 
-```C#
+```csharp
 public class PlayerLife : PlayerCaller
 ```
 

@@ -4,7 +4,7 @@
 
 I'm unsure of the exact use of this class.
 
-```C#
+```csharp
 public enum EPlayerKill
 ```
 

@@ -4,7 +4,7 @@
 
 Gets the current life object attached to the player.
 
-```C#
+```csharp
 public PlayerLife life { get; }
 ```
 

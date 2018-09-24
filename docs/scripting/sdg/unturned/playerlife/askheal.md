@@ -8,7 +8,7 @@ If you want to damage the health stat, use [askDamage(byte, Vector3, EDeathCause
 
 If you want damage the player's legs, use [breakLegs()](scripting/sdg/unturned/playerlife/breaklegs).
 
-```C#
+```csharp
 public void askHeal(byte amount, bool healBleeding, heal healBroken);
 ```
 

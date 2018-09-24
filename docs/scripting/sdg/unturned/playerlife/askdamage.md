@@ -8,7 +8,7 @@ If you want to heal the player, use [askHeal(byte, bool, bool)](scripting/sdg/un
 
 If you want damage the player's legs, use [breakLegs()](scripting/sdg/unturned/playerlife/breaklegs).
 
-```C#
+```csharp
 public void askDamage(byte amount, Vector3 newRagdoll, EDeathCause newCause, ELimb newLimb, CSteamID newKiller, out EPlayerKill kill);
 ```
 

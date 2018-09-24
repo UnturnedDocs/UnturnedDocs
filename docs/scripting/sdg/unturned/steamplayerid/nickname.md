@@ -2,7 +2,7 @@
 
 The player's nickname.
 
-```c#
+```csharp
 public string nickname;
 ```
 
@@ -14,7 +14,7 @@ Type | Description
 
 ### Example:
 
-```c#
+```csharp
 using SDG.Unturned;
 using Steamworks;
 

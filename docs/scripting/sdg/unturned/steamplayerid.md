@@ -2,7 +2,7 @@
 
 Holds fields such as the player's name, nickname, group, and steamID.
 
-```C#
+```csharp
 public class SteamPlayerID
 ```
 

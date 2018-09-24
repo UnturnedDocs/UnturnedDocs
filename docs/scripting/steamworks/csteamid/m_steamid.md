@@ -2,7 +2,7 @@
 
 The [ulong](https://docs.microsoft.com/en-us/dotnet/api/system.uint64?view=netframework-3.5) representation of a [CSteamID](scripting/steamworks/csteamid)
 
-```c#
+```csharp
 public ulong m_SteamID;
 ```
 
@@ -14,7 +14,7 @@ Type | Description
 
 ### Examples:
 
-```C#
+```csharp
 using SDG.Unturned;
 using Steamworks;
 

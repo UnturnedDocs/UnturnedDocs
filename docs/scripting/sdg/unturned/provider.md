@@ -4,7 +4,7 @@
 
 Serves as a central hub for most client/server functions.
 
-```C#
+```csharp
 public class Provider : MonoBehaviour
 ```
 

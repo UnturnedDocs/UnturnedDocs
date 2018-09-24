@@ -4,7 +4,7 @@
 
 The interop structure for the native representation of a Steam64ID;
 
-```C#
+```csharp
 [Serializable, StructLayout(LayoutKind.Sequential, Pack = 4)]
 public struct CSteamID : IEquatable<CSteamID>, IComparable<CSteamID>
 ```

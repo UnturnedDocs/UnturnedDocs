@@ -4,7 +4,7 @@
 
 Gets the current oxygen stat of the player.
 
-```C#
+```csharp
 public byte oxygen { get; }
 ```
 

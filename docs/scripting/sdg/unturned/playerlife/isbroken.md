@@ -4,7 +4,7 @@
 
 Gets whether the player has broken legs or not.
 
-```C#
+```csharp
 public bool isBroken { get; }
 ```
 

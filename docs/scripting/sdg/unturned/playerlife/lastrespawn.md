@@ -4,7 +4,7 @@
 
 Gets the timestamp of the last respawn of the player.
 
-```C#
+```csharp
 public float lastRespawn { get; }
 ```
 

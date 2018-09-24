@@ -4,7 +4,7 @@
 
 Gets whether the player is dead or not.
 
-```C#
+```csharp
 public bool isDead { get; }
 ```
 

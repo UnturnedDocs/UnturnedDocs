@@ -4,7 +4,7 @@
 
 The enum representing the status of a module
 
-```C#
+```csharp
 public enum EModuleStatus
 ```
 

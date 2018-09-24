@@ -8,7 +8,7 @@ This infects the player as the infection stat goes opposite the other major stat
 
 If you want to increase the infection stat, use [askDisinfect(byte)](scripting/sdg/unturned/playerlife/askinfect).
 
-```C#
+```csharp
 public void askInfect(byte amount);
 ```
 

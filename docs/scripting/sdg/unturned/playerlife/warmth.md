@@ -4,7 +4,7 @@
 
 Gets the current warmth stat of the player.
 
-```C#
+```csharp
 public byte warmth { get; }
 ```
 

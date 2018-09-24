@@ -4,7 +4,7 @@
 
 The integration of all network and Steam features into the player.
 
-```C#
+```csharp
 public class SteamPlayer : SteamConnectedClientBase
 ```
 

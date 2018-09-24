@@ -4,7 +4,7 @@
 
 Gets the current stamina stat of the player.
 
-```C#
+```csharp
 public byte stamina { get; }
 ```
 

@@ -2,7 +2,7 @@
 
 Kicks a player from the game.
 
-```C#
+```csharp
 public static void kick (CSteamID steamID, string reason);
 ```
 
@@ -15,7 +15,7 @@ Type | Name | Description
 
 ### Example:
 
-```C#
+```csharp
 using SDG.Unturned;
 using Steamworks;
 

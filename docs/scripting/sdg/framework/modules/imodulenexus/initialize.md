@@ -4,7 +4,7 @@
 
 The function called when the module is initialized.
 
-```C#
+```csharp
 void initialize ();
 ```
 

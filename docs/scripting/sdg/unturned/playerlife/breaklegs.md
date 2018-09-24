@@ -8,6 +8,6 @@ If you want to damage the health stat, use [askDamage(byte, Vector3, EDeathCause
 
 If you want to heal the health stat or fix the broken legs, use [askHeal(byte, bool, bool)](scripting/sdg/unturned/playerlife/askheal)
 
-```C#
+```csharp
 public void breakLegs();
 ```

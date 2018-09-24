@@ -4,7 +4,7 @@
 
 A list of all players currently conencted.
 
-```C#
+```csharp
 public static List<SteamPlayer> clients { get; }
 ```
 

@@ -6,7 +6,7 @@ Adds some of the water stat from the player.
 
 If you want to decrease the water stat, use [askDehydrate(byte)](scripting/sdg/unturned/playerlife/askdehydrate).
 
-```C#
+```csharp
 public void askDrink(byte amount);
 ```
 

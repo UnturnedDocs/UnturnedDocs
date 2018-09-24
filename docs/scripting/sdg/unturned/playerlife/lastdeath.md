@@ -4,7 +4,7 @@
 
 Gets the timestamp of the last death of the player.
 
-```C#
+```csharp
 public float lastDeath { get; }
 ```
 

@@ -4,7 +4,7 @@
 
 The player object attached to this.
 
-```C#
+```csharp
 public Player player { get; }
 ```
 
