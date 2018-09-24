@@ -12,8 +12,8 @@ public class SteamPlayer : SteamConnectedClientBase
 
 Name | Description
 ------------ | -------------
-[isAdmin](scripting/sdg/unturned/steamplayer/isadmin) | Gets or sets the player's status as an admin.
-[isPro](scripting/sdg/unturned/steamplayer/ispro) | Gets whether the player owns the Gold DLC or not 
+[isAdmin](scripting/sdg/unturned/steamplayer/isadmin) | Gets or sets the player's status as an admin
+[isPro](scripting/sdg/unturned/steamplayer/ispro) | Gets whether the player owns the Gold DLC or not
 [joined](scripting/sdg/unturned/steamplayer/joined) | Gets the timestamp when the player joined
 [language](scripting/sdg/unturned/steamplayer/language) | Gets the language the player has set
 [ping](scripting/sdg/unturned/steamplayer/ping) | Gets the current ping of the player
