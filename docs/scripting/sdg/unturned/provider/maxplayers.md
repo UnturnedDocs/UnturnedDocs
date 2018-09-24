@@ -12,4 +12,4 @@ public static byte maxPlayers { get; set; }
 
 Type | Description
 ------------ | -------------
-[byte](https://docs.microsoft.com/en-us/dotnet/api/system.int8?view=netframework-3.5) | The number of players currently able to join the server at once.
+[byte](https://docs.microsoft.com/en-us/dotnet/api/system.byte?view=netframework-3.5) | The number of players currently able to join the server at once.
