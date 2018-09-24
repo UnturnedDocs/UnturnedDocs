@@ -13,7 +13,7 @@ public class PlayerLife : PlayerCaller
 Name | Description
 ------------ | -------------
 [askDamage(byte, Vector3, EDeathCause, ELimb, CSteamID, out EPlayerKill)](scripting/sdg/unturned/playerlife/askdamage) | Applies damage to the player and returns a death cause if applicable
-[askDehydrate(byte)](scripting/sdg/unturned/playerlife/askdehyrate) | Subtracts a given amount of hydration from the player
+[askDehydrate(byte)](scripting/sdg/unturned/playerlife/askdehydrate) | Subtracts a given amount of hydration from the player
 [askDisinfect(byte)](scripting/sdg/unturned/playerlife/askdisinfect) | Subtracts a given amount of infection from the player (increases the value)
 [askDrink(byte)](scripting/sdg/unturned/playerlife/askdrink) | Adds a given amount of hydration to the player
 [askEat(byte)](scripting/sdg/unturned/playerlife/askeat) | Adds a given amount of food to the player

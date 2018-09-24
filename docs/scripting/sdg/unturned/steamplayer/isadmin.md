@@ -2,7 +2,7 @@
 
 > This page is incomplete, please help finish it by contributing.
 
-Gets or sets the players status as an admin.
+Gets or sets the player's status as an admin.
 
 ```C#
 public bool isAdmin { get; set; }
