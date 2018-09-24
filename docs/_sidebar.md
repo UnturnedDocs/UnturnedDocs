@@ -1,6 +1,5 @@
 * Information
 
-  * [Using this Documentation](information/using_this_documentation)
   * [Contributing](information/contributing)
   * [Special Thanks](information/special_thanks)
   
