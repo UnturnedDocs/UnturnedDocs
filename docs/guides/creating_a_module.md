@@ -160,7 +160,6 @@ You'll notice an error, this is the compiler informing us that we haven't fully 
 In our case, these functions match the following:
 
 ```csharp
-
 public void initialize()
 {
 
