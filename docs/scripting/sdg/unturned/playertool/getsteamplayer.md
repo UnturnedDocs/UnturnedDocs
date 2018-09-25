@@ -24,7 +24,7 @@ Type | Name | Description
 
 ----
 
-## SDG.Unturned.PlayerTool.getPlayer(string)
+## SDG.Unturned.PlayerTool.getSteamPlayer(string)
 
 Gets a Steam player using their name.
 
