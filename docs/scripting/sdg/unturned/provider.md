@@ -8,14 +8,14 @@ Serves as a central hub for most client/server functions.
 public class Provider : MonoBehaviour
 ```
 
-### Functions:
+### Static Functions:
 
 Name | Description
 ------------ | -------------
 [ban (CSteamID, string, uint)](scripting/sdg/unturned/provider/ban) | Bans a player from the game for a specified amount of time
 [kick (CSteamID, string)](scripting/sdg/unturned/provider/kick) | Kicks a player from the game
 
-### Properties:
+### Static Properties:
 
 Name | Description
 ------------ | -------------

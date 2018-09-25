@@ -23,6 +23,7 @@
     * [ETempurature](scripting/sdg/unturned/etempurature)
     * [Player](scripting/sdg/unturned/player)
     * [PlayerLife](scripting/sdg/unturned/playerlife)
+    * [PlayerTool](scripting/sdg/unturned/playertool)
     * [Provider](scripting/sdg/unturned/provider)
     * [SteamPlayer](scripting/sdg/unturned/steamplayer)
     * [SteamPlayerID](scripting/sdg/unturned/steamplayerid)
