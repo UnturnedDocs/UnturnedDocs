@@ -7,10 +7,10 @@
 Gets a Steam player using their [CSteamID](scripting/steamworks/csteamid).
 
 ```csharp
-public static SteamPlayer getSteamPlayer(CSteamID steamID)
+public static SteamPlayer getSteamPlayer(CSteamID steamID);
 ```
 
-### Returns
+### Returns:
 
 Type | Description
 ------------ | -------------
@@ -20,7 +20,7 @@ Type | Description
 
 Type | Name | Description
 ------------ | ------------- | -------------
-[CSteamID](scripting/steamworks/csteamid) | steamID | The id of the player you would like to find
+[CSteamID](scripting/steamworks/csteamid) | steamID | The ID of the player you would like to find
 
 ----
 
@@ -29,10 +29,10 @@ Type | Name | Description
 Gets a Steam player using their name.
 
 ```csharp
-public static SteamPlayer getSteamPlayer(string name)
+public static SteamPlayer getSteamPlayer(string name);
 ```
 
-### Returns
+### Returns:
 
 Type | Description
 ------------ | -------------
@@ -43,3 +43,23 @@ Type | Description
 Type | Name | Description
 ------------ | ------------- | -------------
 [string](https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netframework-3.5) | name | The name of the player you would like to find
+
+## SDG.Unturned.PlayerTool.getSteamPlayer(ulong)
+
+Gets a Steam player using their ID.
+
+```csharp
+public static SteamPlayer getSteamPlayer(ulong steamID);
+```
+
+### Returns:
+
+Type | Description
+------------ | -------------
+[SteamPlayer](scripting/sdg/unturned/steamplayer) | The Steam player object returned; if no player was found, this will return `null`
+
+### Parameters:
+
+Type | Name | Description
+------------ | ------------- | -------------
+[ulong](https://docs.microsoft.com/en-us/dotnet/api/system.uint64?view=netframework-3.5) | steamID | The ID of the player you would like to find

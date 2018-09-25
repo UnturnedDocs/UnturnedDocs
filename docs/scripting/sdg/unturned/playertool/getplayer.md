@@ -7,10 +7,10 @@
 Gets a player using their [CSteamID](scripting/steamworks/csteamid).
 
 ```csharp
-public static Player getPlayer(CSteamID steamID)
+public static Player getPlayer(CSteamID steamID);
 ```
 
-### Returns
+### Returns:
 
 Type | Description
 ------------ | -------------
@@ -29,10 +29,10 @@ Type | Name | Description
 Gets a player using their name.
 
 ```csharp
-public static Player getPlayer(string name)
+public static Player getPlayer(string name);
 ```
 
-### Returns
+### Returns:
 
 Type | Description
 ------------ | -------------
