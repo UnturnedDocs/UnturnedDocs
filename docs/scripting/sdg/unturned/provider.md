@@ -24,3 +24,17 @@ Name | Description
 [maxPlayers](scripting/sdg/unturned/provider/maxplayers) | Gets or sets the maximum amount of players allowed to join
 [serverName](scripting/sdg/unturned/provider/servername) | Gets or sets server's name
 [serverPassword](scripting/sdg/unturned/provider/serverpassword) | Gets or sets the server's password
+
+### Static Fields:
+
+Name | Description
+------------ | -------------
+[onServerConnected](scripting/sdg/unturned/provider/onserverconnected) | A delegate field called when a player joins
+[onServerDisconnected](scripting/sdg/unturned/provider/onserverdisconnected) | A delegate field called when a player leaves
+
+### Delegates:
+
+Name | Description
+------------ | -------------
+[ServerConnected (CSteamID)](scripting/sdg/unturned/provider/serverconnected) | A delegate representing an action to be performed when a player joins the server
+[ServerDisconnected (CSteamID)](scripting/sdg/unturned/provider/serverdisconnected) | A delegate representing an action to be performed when a player joins the server
