@@ -4,7 +4,7 @@
 
 > Unofficial Code Documentation for Unturned!
 
-[Discord](https://discord.gg/3NgnzKk)
-[Getting Started](guides/creating_a_module.md)
+[GitHub](https://github.com/ChubbyQuokka/UnturnedDocs)
+[Getting Started](?id=unturneddocs)
 
 ![color](#3c3c3c)
