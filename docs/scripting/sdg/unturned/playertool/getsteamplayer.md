@@ -1,20 +1,20 @@
-# SDG.Unturned.PlayerTool.getPlayer
+# SDG.Unturned.PlayerTool.getSteamPlayer
 
 > This page is incomplete, please help finish it by contributing.
 
-## SDG.Unturned.PlayerTool.getPlayer(CSteamID)
+## SDG.Unturned.PlayerTool.getSteamPlayer(CSteamID)
 
-Gets a player using their [CSteamID](scripting/steamworks/csteamid).
+Gets a Steam player using their [CSteamID](scripting/steamworks/csteamid).
 
 ```csharp
-public static Player getPlayer(CSteamID steamID)
+public static SteamPlayer getSteamPlayer(CSteamID steamID)
 ```
 
 ### Returns
 
 Type | Description
 ------------ | -------------
-[Player](scripting/sdg/unturned/player) | The player object returned; if no player was found, this will return `null`
+[SteamPlayer](scripting/sdg/unturned/steamplayer) | The Steam player object returned; if no player was found, this will return `null`
 
 ### Parameters:
 
@@ -26,17 +26,17 @@ Type | Name | Description
 
 ## SDG.Unturned.PlayerTool.getPlayer(string)
 
-Gets a player using their name.
+Gets a Steam player using their name.
 
 ```csharp
-public static Player getPlayer(string name)
+public static SteamPlayer getSteamPlayer(string name)
 ```
 
 ### Returns
 
 Type | Description
 ------------ | -------------
-[Player](scripting/sdg/unturned/player) | The player object returned; if no player was found, this will return `null`
+[SteamPlayer](scripting/sdg/unturned/steamplayer) | The Steam player object returned; if no player was found, this will return `null`
 
 ### Parameters:
 
