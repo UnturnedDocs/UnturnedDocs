@@ -44,6 +44,8 @@ Type | Name | Description
 ------------ | ------------- | -------------
 [string](https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netframework-3.5) | name | The name of the player you would like to find
 
+----
+
 ## SDG.Unturned.PlayerTool.getSteamPlayer(ulong)
 
 Gets a Steam player using their ID.
