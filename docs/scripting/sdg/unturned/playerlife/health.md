@@ -2,7 +2,7 @@
 
 <blockquote><p><b>This page is incomplete, please help finish it by contributing.<p></b></blockquote>
 
-> This member is client and server compatible.
+> This member is client and server compatible.<br>
 > NOTE: This is only valid for the instance of the client's player when used from a client.
 
 Gets the current health stat of the player.
