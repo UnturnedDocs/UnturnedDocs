@@ -7,3 +7,9 @@ This is the class that handles both the client-side and server-side operations i
 ```csharp
 public class ChatManager : SteamCaller
 ```
+
+### Static Events:
+
+Name | Description
+------------ | -------------
+[onChatted](scripting/sdg/unturned/chatmanager/onchatted) | An event called on the server when the player chats

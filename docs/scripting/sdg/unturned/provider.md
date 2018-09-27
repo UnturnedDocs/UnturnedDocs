@@ -29,8 +29,8 @@ Name | Description
 
 Name | Description
 ------------ | -------------
-[onServerConnected](scripting/sdg/unturned/provider/onserverconnected) | A delegate field called when a player joins
-[onServerDisconnected](scripting/sdg/unturned/provider/onserverdisconnected) | A delegate field called when a player leaves
+[onServerConnected](scripting/sdg/unturned/provider/onserverconnected) | An event called on the server when a player joins
+[onServerDisconnected](scripting/sdg/unturned/provider/onserverdisconnected) | An event called on the server when a player leaves
 
 ### Delegates:
 
