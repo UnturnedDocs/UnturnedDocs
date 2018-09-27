@@ -2,6 +2,15 @@
 
 > This page is incomplete, please help finish it by contributing.
 
+## Overloads:
+
+Name | Description
+------------ | -------------
+[getPlayer(CSteamID)](scripting/sdg/unturned/playertool/getplayer?id=sdgunturnedplayertoolgetplayercsteamid) | Finds a player using their [CSteamID](scripting/steamworks/csteamid)
+[getPlayer(string)](scripting/sdg/unturned/playertool/getplayer?id=sdgunturnedplayertoolgetplayerstring) | Finds a player using their name
+
+----
+
 ## SDG.Unturned.PlayerTool.getPlayer(CSteamID)
 
 Gets a player using their [CSteamID](scripting/steamworks/csteamid).

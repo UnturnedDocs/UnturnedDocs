@@ -2,6 +2,16 @@
 
 > This page is incomplete, please help finish it by contributing.
 
+## Overloads:
+
+Name | Description
+------------ | -------------
+[getSteamPlayer(CSteamID)](scripting/sdg/unturned/playertool/getsteamplayer?id=sdgunturnedplayertoolgetsteamplayercsteamid) | Finds a steam player using their [CSteamID](scripting/steamworks/csteamid)
+[getSteamPlayer(string)](scripting/sdg/unturned/playertool/getsteamplayer?id=sdgunturnedplayertoolgetsteamplayerstring) | Finds a steam player using their name
+[getSteamPlayer(ulong)](scripting/sdg/unturned/playertool/getsteamplayer?id=sdgunturnedplayertoolgetsteamplayerulong) | Finds a steam player using their ID as a [ulong](https://docs.microsoft.com/en-us/dotnet/api/system.uint64?view=netframework-3.5)
+
+----
+
 ## SDG.Unturned.PlayerTool.getSteamPlayer(CSteamID)
 
 Gets a Steam player using their [CSteamID](scripting/steamworks/csteamid).
