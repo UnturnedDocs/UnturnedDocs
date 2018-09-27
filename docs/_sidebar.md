@@ -17,6 +17,9 @@
 
   * SDG.Unturned
 
+    * [ChatManager](scripting/sdg/unturned/chatmanager)
+    * [Chatted](scripting/sdg/unturned/chatted)
+    * [EChatMode](scripting/sdg/unturned/echatmode)
     * [EDeathCause](scripting/sdg/unturned/edeathcause)
     * [ELimb](scripting/sdg/unturned/elimb)
     * [EPlayerKill](scripting/sdg/unturned/eplayerkill)
