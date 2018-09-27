@@ -1,5 +1,7 @@
 # SDG.Unturned.SteamPlayerID.playerName
 
+> This member is client and server compatible.
+
 The name of the Steam account bound to this player.
 
 ```csharp

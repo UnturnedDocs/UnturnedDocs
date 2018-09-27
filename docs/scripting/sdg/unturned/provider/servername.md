@@ -1,6 +1,8 @@
 # SDG.Unturned.Provider.serverName
 
-> This page is incomplete, please help finish it by contributing.
+<blockquote><p><b>This page is incomplete, please help finish it by contributing.<p></b></blockquote>
+
+> This is a server-only member!
 
 Gets or sets the name displayed by the server in the browser.
 

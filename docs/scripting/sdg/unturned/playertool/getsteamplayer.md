@@ -1,6 +1,8 @@
 # SDG.Unturned.PlayerTool.getSteamPlayer
 
-> This page is incomplete, please help finish it by contributing.
+<blockquote><p><b>This page is incomplete, please help finish it by contributing.<p></b></blockquote>
+
+> Every member is client and server compatible.
 
 ## Overloads:
 
@@ -15,6 +17,8 @@ Name | Description
 ## SDG.Unturned.PlayerTool.getSteamPlayer(CSteamID)
 
 Gets a Steam player using their [CSteamID](scripting/steamworks/csteamid).
+
+This call is valid on both the client and server.
 
 ```csharp
 public static SteamPlayer getSteamPlayer(CSteamID steamID);
@@ -38,6 +42,8 @@ Type | Name | Description
 
 Gets a Steam player using their name.
 
+This call is valid on both the client and server.
+
 ```csharp
 public static SteamPlayer getSteamPlayer(string name);
 ```
@@ -59,6 +65,8 @@ Type | Name | Description
 ## SDG.Unturned.PlayerTool.getSteamPlayer(ulong)
 
 Gets a Steam player using their ID.
+
+This call is valid on both the client and server.
 
 ```csharp
 public static SteamPlayer getSteamPlayer(ulong steamID);

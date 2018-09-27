@@ -1,6 +1,8 @@
 # SDG.Unturned.PlayerLife.askDamage(byte, Vector3, EDeathCause, ELimb, CSteamID, out EPlayerKill)
 
-> This page is incomplete, please help finish it by contributing.
+<blockquote><p><b>This page is incomplete, please help finish it by contributing.<p></b></blockquote>
+
+> This is a server-only member!
 
 Applies damage to the player and outputs [EPlayerKill.PLAYER](scripting/sdg/unturned/eplayerkill) if the player is killed.
 

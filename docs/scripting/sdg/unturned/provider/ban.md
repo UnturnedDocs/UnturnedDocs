@@ -1,5 +1,7 @@
 # SDG.Unturned.Provider.ban(CSteamID, string, uint)
 
+> This is a server-only member!
+
 Bans a player from the game for a specified amout of time.
 
 ```csharp

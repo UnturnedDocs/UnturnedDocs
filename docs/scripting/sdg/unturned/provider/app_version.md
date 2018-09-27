@@ -1,6 +1,8 @@
 # SDG.Unturned.Provider.APP_VERSION
 
-> This page is incomplete, please help finish it by contributing.
+<blockquote><p><b>This page is incomplete, please help finish it by contributing.<p></b></blockquote>
+
+> This member is client and server compatible.
 
 The current version of the game the client or server is running.
 

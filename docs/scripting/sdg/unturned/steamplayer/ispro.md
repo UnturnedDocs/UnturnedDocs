@@ -1,6 +1,8 @@
 # SDG.Unturned.SteamPlayer.isPro
 
-> This page is incomplete, please help finish it by contributing.
+<blockquote><p><b>This page is incomplete, please help finish it by contributing.<p></b></blockquote>
+
+> This member is client and server compatible.
 
 Gets whether the player owns the Gold DLC or not.
 

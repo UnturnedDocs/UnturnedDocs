@@ -1,6 +1,9 @@
 # SDG.Unturned.PlayerLife.oxygen
 
-> This page is incomplete, please help finish it by contributing.
+<blockquote><p><b>This page is incomplete, please help finish it by contributing.<p></b></blockquote>
+
+> This member is client and server compatible.
+> NOTE: This is only valid for the instance of the client's player when used from a client.
 
 Gets the current oxygen stat of the player.
 

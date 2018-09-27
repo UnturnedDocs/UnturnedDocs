@@ -1,5 +1,7 @@
 # SDG.Unturned.SteamPlayerID.nickname
 
+> This member is client and server compatible.
+
 The player's nickname.
 
 ```csharp

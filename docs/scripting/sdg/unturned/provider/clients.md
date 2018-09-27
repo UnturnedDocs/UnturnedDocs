@@ -1,8 +1,10 @@
 # SDG.Unturned.Provider.clients
 
-> This page is incomplete, please help finish it by contributing.
+<blockquote><p><b>This page is incomplete, please help finish it by contributing.<p></b></blockquote>
 
-A list of all players currently conencted.
+> This member is client and server compatible.
+
+A list of all players currently on the server.
 
 ```csharp
 public static List<SteamPlayer> clients { get; }

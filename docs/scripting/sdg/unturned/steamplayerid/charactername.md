@@ -1,6 +1,6 @@
 # SDG.Unturned.SteamPlayerID.characterName
 
-The public name of the player's character that they connected to the server with.
+> This member is client and server compatible.
 
 ```csharp
 public string characterName { get; set; }

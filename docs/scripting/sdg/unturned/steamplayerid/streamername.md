@@ -1,5 +1,7 @@
 # SDG.Unturned.SteamPlayerID.streamerName
 
+> This member is client and server compatible.
+
 The name shown to clients when they are in streamer mode. The algorithm to calculate this is based on the player's [CSteamID](scripting/streamworks/csteamid).
 
 ```csharp

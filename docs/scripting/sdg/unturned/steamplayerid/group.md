@@ -1,5 +1,7 @@
 # SDG.Unturned.SteamPlayerID.group
 
+> This member is client and server compatible.
+
 The group the player is currently in.
 
 ```csharp

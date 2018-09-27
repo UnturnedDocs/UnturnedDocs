@@ -1,6 +1,8 @@
 # SDG.Unturned.PlayerLife.askDrink(byte)
 
-> This page is incomplete, please help finish it by contributing.
+<blockquote><p><b>This page is incomplete, please help finish it by contributing.<p></b></blockquote>
+
+> This is a server-only member!
 
 Adds some of the water stat from the player.
 

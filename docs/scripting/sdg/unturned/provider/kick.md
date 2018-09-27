@@ -1,5 +1,7 @@
 # SDG.Unturned.Provider.kick(CSteamID, string)
 
+> This is a server-only member!
+
 Kicks a player from the game.
 
 ```csharp
