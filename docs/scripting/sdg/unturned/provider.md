@@ -25,7 +25,7 @@ Name | Description
 [serverName](scripting/sdg/unturned/provider/servername) | Gets or sets server's name
 [serverPassword](scripting/sdg/unturned/provider/serverpassword) | Gets or sets the server's password
 
-### Static Fields:
+### Static Events:
 
 Name | Description
 ------------ | -------------
