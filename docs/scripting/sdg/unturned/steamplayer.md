@@ -8,7 +8,7 @@ The integration of all network and Steam features into the player.
 public class SteamPlayer : SteamConnectedClientBase
 ```
 
-### Properties:
+### Universal Properties:
 
 Name | Description
 ------------ | -------------

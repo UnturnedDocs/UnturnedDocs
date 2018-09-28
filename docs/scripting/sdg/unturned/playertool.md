@@ -8,7 +8,7 @@ This is a utility class containing many static methods allowing the easy convers
 public class PlayerTool
 ```
 
-### Static Functions:
+### Static Universal Functions:
 
 Name | Description
 ------------ | -------------

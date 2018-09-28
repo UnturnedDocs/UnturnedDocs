@@ -8,7 +8,7 @@ The integration of all game features into the player.
 public class Player : MonoBehaviour
 ```
 
-### Properties:
+### Universal Properties:
 
 Name | Description
 ------------ | -------------

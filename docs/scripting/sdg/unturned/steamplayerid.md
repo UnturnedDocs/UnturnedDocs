@@ -6,7 +6,7 @@ Holds fields such as the player's name, nickname, group, and steamID.
 public class SteamPlayerID
 ```
 
-### Properties:
+### Universal Properties:
 
 Name | Description
 ------------ | -------------
@@ -15,7 +15,7 @@ Name | Description
 [steamID](scripting/sdg/unturned/steamplayerid/steamid) | Gets the player's steamID
 [streamerName](scripting/sdg/unturned/steamplayerid/streamername) | Gets the player's streamer name
 
-### Fields:
+### Universal Fields:
 
 Name | Description
 ------------ | -------------

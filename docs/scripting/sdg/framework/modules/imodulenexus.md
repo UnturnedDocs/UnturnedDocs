@@ -6,7 +6,7 @@ The interface that all modules inherit from.
 public interface IModuleNexus
 ```
 
-### Functions:
+### Universal Functions:
 
 Name | Description
 ------------ | -------------

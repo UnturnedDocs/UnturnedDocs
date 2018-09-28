@@ -8,7 +8,7 @@ The class holding fields relating to the life and health of a player.
 public class PlayerLife : PlayerCaller
 ```
 
-### Functions:
+### Server Functions:
 
 Name | Description
 ------------ | -------------
@@ -22,7 +22,7 @@ Name | Description
 [askStarve(byte)](scripting/sdg/unturned/playerlife/askstarve) | Subtracts a given amount of food from the player
 [breakLegs()](scripting/sdg/unturned/playerlife/breaklegs) | Breaks the player's legs
 
-### Properties:
+### Universal Properties:
 
 Name | Description
 ------------ | -------------

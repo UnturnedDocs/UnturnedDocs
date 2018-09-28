@@ -8,7 +8,7 @@ This is the class that handles both the client-side and server-side operations i
 public class ChatManager : SteamCaller
 ```
 
-### Static Events:
+### Static Server Events:
 
 Name | Description
 ------------ | -------------
