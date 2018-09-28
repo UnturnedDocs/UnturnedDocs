@@ -22,7 +22,7 @@
   <script>
     window.$docsify = {
       name: 'Unturned Docs',
-      repo: 'https://github.com/ChubbyQuokka/UnturnedDocs',
+      repo: 'https://github.com/UnturnedDocs/UnturnedDocs',
       ga: 'UA-126274174-1',
       loadSidebar: true,
       coverpage: true,
@@ -30,7 +30,7 @@
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
-            url = 'https://github.com/ChubbyQuokka/UnturnedDocs/edit/master/docs/' + vm.route.file
+            url = 'https://github.com/UnturnedDocs/UnturnedDocs/edit/master/docs/' + vm.route.file
             var editHtml = '<div style="overflow: auto"><p style="float: right">[:memo: Edit on GitHub](' + url + ')</p></div>\n'
 
             return editHtml
