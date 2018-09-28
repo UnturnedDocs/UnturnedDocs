@@ -11,3 +11,5 @@
 
 * [SDGNelson](https://github.com/SDGNelson) for creating the code!
 * [ChubbyQuokka](https://github.com/ChubbyQuokka) for maintaining this documentation since Sep. 2018!
+* [Crablet](https://github.com/AlaeaCrablet) for maintaining this documentation since Sep. 2018!
+* [BlueFireExplosion](https://github.com/BlueFire9020) for maintaining this documentation since Sep. 2018!
