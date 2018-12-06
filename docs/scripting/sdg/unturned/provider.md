@@ -12,7 +12,7 @@ public class Provider : MonoBehaviour
 
 Name | Description
 ------------ | -------------
-[ban (CSteamID, string, uint)](scripting/sdg/unturned/provider/ban) | Bans a player from the game for a specified amount of time
+[ban (CSteamID, string, uint)](scripting/sdg/unturned/provider/ban) | Kicks a player from the game (see method page for info)
 [kick (CSteamID, string)](scripting/sdg/unturned/provider/kick) | Kicks a player from the game
 
 ### Static Universal Properties:

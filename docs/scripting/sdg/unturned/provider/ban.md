@@ -2,7 +2,9 @@
 
 > This is a server-only member!
 
-Bans a player from the game for a specified amout of time.
+Kicks a player from the game. 
+
+This DOES NOT perform a ban on the player, this just informs the player that they have been banned and must be used in conjunction with [SteamBlacklist.ban](scripting/sdg/unturned/steamblacklist/ban) in-order to issue a ban to the player.
 
 ```csharp
 public static void ban (CSteamID steamID, string reason, uint duration);
