@@ -13,4 +13,4 @@ public struct CSteamID : IEquatable<CSteamID>, IComparable<CSteamID>
 
 Name | Description
 ------------ | -------------
-[m_SteamID](scripting/steamworks/csteamid/m_steamid) | The [ulong](https://docs.microsoft.com/en-us/dotnet/api/system.uint64?view=netframework-3.5) representation of an ID.
+[m_SteamID](scripting/steamworks/csteamid/m_steamid) | The [ulong](https://docs.microsoft.com/en-us/dotnet/api/system.uint64?view=netframework-3.5) representation of this ID.

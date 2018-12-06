@@ -22,36 +22,3 @@ This is calculated using the following algorithm:
 public string streamerName => 
 	Provider.streamerNames[this.steamID.m_SteamID % Provider.streamerNames.Count];
 ```
-
-### Example:
-
-```csharp
-using SDG.Unturned;
-using Steamworks;
-
-public sealed class CommandListStreamerNames : Command
-{
-    public CommandListStreamerNames(Local local)
-    {
-		localization = local;
-        _command = "liststreamernames";
-        _info = "liststreamernames";
-        _help = "Lists the players' steamID followed by their streamer name";
-    }
-
-    protected override void execute(CSteamID caller, string parameters)
-    {
-        if (!Dedicator.isDedicated)
-            return;
-
-        if (!Provider.isServer)
-        {
-            CommandWindow.LogError(this.localization.format("NotRunningErrorText"));
-            return;
-        }
-
-        foreach (SteamPlayer player in Provider.clients)
-            CommandWindow.Log($"{player.playerID.steamID} : {player.playerID.steamID.streamerName}");
-    }
-}
-```
