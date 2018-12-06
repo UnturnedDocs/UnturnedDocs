@@ -36,7 +36,7 @@
         function (hook, vm) {
           hook.beforeEach(function (html) {
             url = 'https://github.com/UnturnedDocs/UnturnedDocs/edit/master/docs/' + vm.route.file
-            var editHtml = '<div style="overflow: auto"><p style="float: right">[:memo: Edit on GitHub](' + url + ')</p></div>\n'
+            var editHtml = '[:memo: Edit on GitHub](' + url + ')\n'
 
             return editHtml
               + html
