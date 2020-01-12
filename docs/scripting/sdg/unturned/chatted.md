@@ -13,7 +13,7 @@ public delegate void Chatted(SteamPlayer player, EChatMode mode, ref Color chatt
 Type | Name | Description
 ------------ | ------------- | -------------
 [SteamPlayer](scripting/sdg/unturned/steamplayer) | player | The player who chatted
-[EChatMode](scripting/sdg/unturned/echatmode) | player | The chatmode of the message
+[EChatMode](scripting/sdg/unturned/echatmode) | mode | The chatmode of the message
 ref [Color](https://docs.unity3d.com/550/Documentation/ScriptReference/Color.html) | chatted | The color of the message to be sent
 ref [bool](https://docs.microsoft.com/en-us/dotnet/api/system.boolean?view=netframework-3.5) | isRich | Whether any present [rich text](https://docs.unity3d.com/550/Documentation/Manual/StyledText.html) should be formatted
 [string](https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netframework-3.5) | text | The text to be displayed
