@@ -35,7 +35,7 @@ LANDMINE | The value when the entity is killed by a landmine
 ARENA | The value when the entity is killed by being outside the circle in arena mode
 MISSILE | The value when the entity is killed by a missile
 CHARGE | The value when the entity is killed by an explosive charge
-SPLASH | unknown
+SPLASH | The value when the entity is killed by splash damage
 SENTRY | The value when the entity is killed by a sentry
 ACID | The value when the entity is killed by the acid of a spitter zombie
 BOULDER | The value when the entity is killed by the boulder of a mega zombie
